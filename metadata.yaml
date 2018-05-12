@@ -1,0 +1,32 @@
+_repo: From-Farm-House-to-the-White-Housepublic-and-private-life-and-services_28618
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28618-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Thayer, William Makepeace
+    alias: Thayer, William M. (William Makepeace)
+    birthdate: 1820
+    deathdate: 1898
+    gutenberg_agent_id: '3095'
+    url: http://www.gutenberg.org/2009/agents/3095
+description: ''
+gutenberg_issued: '2009-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28618'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Presidents -- United States -- Biography'
+- !lcc 'E300'
+- !lcsh 'Washington, George, 1732-1799'
+title: 'From Farm House to the White House
+
+  The life of George Washington, his boyhood, youth, manhood,
+
+  public and private life and services'
+url: http://www.gutenberg.org/ebooks/28618
